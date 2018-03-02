@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f268c525497f0d041b8dd95b2c89f1b8
+timeCreated: 1520009611
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {fileID: 1593774488006972, guid: 151015a2735d74944a4da5a15a4c761c,
+      type: 2}
+  - wallPrefab: {fileID: 1892144734138526, guid: d96258261d74265448ed4804828f1940,
+      type: 2}
+  - enemyPrefab: {fileID: 1375014185241356, guid: 7f2c07d3c7dacf04eaa26a65d8f8b592,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
